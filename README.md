@@ -125,7 +125,7 @@ In de meegeleverde dataset moeten nog worden aangevuld:
 
 - vertrekdatum van Groot Antink in 2024;
 - exacte datum van Domaine de l’Eau Rouge;
-- exacte plekken van de onbekende overnachting bij York en de Schotland-stop van 6 juli;
+- exacte overnachtingsplek bij York en de precieze campingnaam van de Moray-stop;
 - diverse foto's en coördinaten.
 
 ### Foto toevoegen

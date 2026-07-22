@@ -47,13 +47,13 @@
     "imageLicense": "CC BY-SA 4.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
-  "onbekend-schotland-6-juli": {
-    "image": "./assets/images/schotse-highlands-camping.jpg",
-    "imageAlt": "Illustratief kampeerlandschap in de Schotse Highlands; exacte verblijfplaats onbekend",
-    "imageCredit": "Protolanguage17",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Camping_in_Fort_William,_Glen_Nevis,_Western_Scottish_Highlands.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  "moray-overnachtingsplek": {
+    "image": "./assets/images/moray-2024.png",
+    "imageAlt": "Groene heuvels met schapen onder een wolkenlucht in Moray",
+    "imageCredit": "Eigen foto",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageLicenseUrl": ""
   },
   "inver-caravan-park": {
     "image": "./assets/images/dunbeath.jpg",
