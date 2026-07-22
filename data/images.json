@@ -120,10 +120,10 @@
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   "oetdoor-winterkamperen": {
-    "image": "./assets/images/winterkamperen.jpg",
-    "imageAlt": "Illustratief winterkampeerevenement in Nederland; exacte locatie nog onbekend",
-    "imageCredit": "Kitty Terwolbeck",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_Camping_Event_Hallse_Hull_-_Station_Zutphen.jpg",
+    "image": "./assets/images/haarlo.jpg",
+    "imageAlt": "De Berkel bij Haarlo, in de omgeving van Oetdoor",
+    "imageCredit": "Helena",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2019-05-15_Berkel_bij_Haarlo.jpg",
     "imageLicense": "CC BY 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
   },

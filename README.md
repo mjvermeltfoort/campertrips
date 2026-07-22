@@ -125,7 +125,6 @@ In de meegeleverde dataset moeten nog worden aangevuld:
 
 - vertrekdatums van Groot Antink in 2024 en 2025;
 - datum en plaats van Domaine de l’Eau Rouge;
-- campingnaam en plaats van Oetdoor Winterkamperen;
 - exacte plekken van de onbekende overnachtingen bij York en in Schotland;
 - diverse foto's en coördinaten.
 
