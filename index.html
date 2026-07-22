@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Een persoonlijke tijdlijn van campings, camperplaatsen en kampeerweekenden sinds 2024.">
+  <meta name="theme-color" content="#294936">
+  <title>Mijn campingtijdlijn</title>
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/app.js" defer></script>
+</head>
+<body>
+  <div class="scroll-progress" aria-hidden="true"><span id="scrollProgress"></span></div>
+  <a class="skip-link" href="#timeline">Ga naar de tijdlijn</a>
+
+  <header class="hero" id="top">
+    <div class="hero__content page-width">
+      <p class="eyebrow">Onderweg sinds 2024</p>
+      <h1>Mijn campingtijdlijn</h1>
+      <p class="hero__subtitle">Campings, camperplaatsen en kampeerweekenden sinds 2024</p>
+      <p class="hero__intro">Een overzicht van de plekken waar ik met de camper, vrienden of de kapel heb gekampeerd. Scroll door de tijdlijn om de verschillende verblijven te bekijken.</p>
+      <a class="scroll-cue" href="#journey" aria-label="Scroll naar het reisoverzicht"><span>Ontdek de reizen</span><span aria-hidden="true">↓</span></a>
+    </div>
+  </header>
+
+  <main id="journey">
+    <section class="overview page-width" aria-labelledby="overviewTitle">
+      <div class="section-heading">
+        <p class="eyebrow">Het reisdagboek in cijfers</p>
+        <h2 id="overviewTitle">Alle avonturen bij elkaar</h2>
+      </div>
+      <div id="statistics" class="statistics" aria-live="polite"></div>
+    </section>
+
+    <section class="controls page-width" aria-labelledby="filtersTitle">
+      <div class="controls__top">
+        <div>
+          <p class="eyebrow">Vind een verblijf</p>
+          <h2 id="filtersTitle">Blader door de tijdlijn</h2>
+        </div>
+        <nav id="yearNavigation" class="year-nav" aria-label="Spring naar een jaar"></nav>
+      </div>
+      <form id="filterForm" class="filter-form">
+        <label class="field field--search"><span>Zoeken</span><input id="searchFilter" type="search" placeholder="Zoek op camping, plaats of land" autocomplete="off"></label>
+        <label class="field"><span>Jaar</span><select id="yearFilter"><option value="">Alle jaren</option></select></label>
+        <label class="field"><span>Land</span><select id="countryFilter"><option value="">Alle landen</option></select></label>
+        <label class="field"><span>Type verblijf</span><select id="typeFilter"><option value="">Alle typen</option></select></label>
+        <label class="field"><span>Tag</span><select id="tagFilter"><option value="">Alle tags</option></select></label>
+        <button class="button button--quiet" id="clearFilters" type="button">Filters wissen</button>
+      </form>
+      <p id="resultsStatus" class="results-status" aria-live="polite"></p>
+    </section>
+
+    <section class="timeline-section page-width" aria-labelledby="timelineTitle">
+      <h2 id="timelineTitle" class="visually-hidden">Chronologische campingtijdlijn</h2>
+      <div id="loadingState" class="state-panel" role="status"><span class="loader" aria-hidden="true"></span> Campingverhalen laden…</div>
+      <div id="errorState" class="state-panel" hidden>
+        <h3>De campinggegevens konden niet worden geladen.</h3>
+        <p>Controleer de verbinding of probeer het nogmaals.</p>
+        <button class="button" id="retryButton" type="button">Opnieuw proberen</button>
+      </div>
+      <div id="timeline" class="timeline"></div>
+      <div id="emptyState" class="state-panel" hidden><h3>Geen verblijven gevonden met deze filters.</h3><p>Pas een filter aan of wis alle filters om opnieuw te beginnen.</p></div>
+    </section>
+  </main>
+
+  <button id="backToTop" class="back-to-top" type="button" aria-label="Terug naar boven">↑ <span>Terug naar boven</span></button>
+
+  <footer class="footer"><div class="page-width"><p>Gemaakt voor alle kleine en grote kampeeravonturen.</p><a href="#top">Naar boven ↑</a></div></footer>
+
+  <div id="modalBackdrop" class="modal-backdrop" hidden>
+    <div id="stayModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" tabindex="-1">
+      <button id="modalClose" class="modal__close" type="button" aria-label="Details sluiten">×</button>
+      <div id="modalContent"></div>
+    </div>
+  </div>
+</body>
+</html>

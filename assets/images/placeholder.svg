@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title desc">
+  <title id="title">Geen foto beschikbaar</title><desc id="desc">Illustratie van een camper tussen heuvels en bomen.</desc>
+  <rect width="800" height="450" fill="#e8ede6"/><circle cx="655" cy="95" r="42" fill="#d7b37b"/>
+  <path d="M0 330 170 170l145 145 95-100 150 145 85-94 155 120v64H0z" fill="#9caf9d"/>
+  <path d="M0 370 190 245l126 93 116-83 156 115 95-58 117 82v56H0z" fill="#55735f"/>
+  <g fill="#294936"><path d="M86 315h18v86H86z"/><path d="m95 240-44 96h88z"/><path d="m95 275-54 82h108z"/><path d="M704 306h16v95h-16z"/><path d="m712 230-42 100h84z"/><path d="m712 267-54 91h108z"/></g>
+  <g transform="translate(270 300)"><rect width="270" height="91" rx="18" fill="#fffdf8"/><path d="M30 0h126l44 45H30z" fill="#f8f5eb"/><rect x="55" y="17" width="65" height="34" rx="5" fill="#91b2b4"/><rect x="138" y="18" width="48" height="36" rx="5" fill="#91b2b4"/><circle cx="66" cy="91" r="25" fill="#26362c"/><circle cx="66" cy="91" r="10" fill="#b9c1ba"/><circle cx="222" cy="91" r="25" fill="#26362c"/><circle cx="222" cy="91" r="10" fill="#b9c1ba"/></g>
+</svg>

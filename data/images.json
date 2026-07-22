@@ -1,0 +1,138 @@
+{
+  "groot-antink": {
+    "image": "./assets/images/groenlo.jpg",
+    "imageAlt": "Groen landschap bij Groenlo, in de omgeving van Groot Antink",
+    "imageCredit": "Ben Bender",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Groenlo,_Netherlands_-_panoramio.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "mooi-delden": {
+    "image": "./assets/images/delden-twickel.jpg",
+    "imageAlt": "Kasteel Twickel in Delden, in de omgeving van Park Camping Mooi Delden",
+    "imageCredit": "Yhoitink",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Delden_Twickel_voorkant.jpg",
+    "imageLicense": "CC BY-SA 3.0 NL",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/"
+  },
+  "oak-view-holiday-park": {
+    "image": "./assets/images/engeland-camping.jpg",
+    "imageAlt": "Illustratief campinglandschap in Engeland; niet de camping zelf",
+    "imageCredit": "Callum Black",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Campsite,_Edale_-_geograph.org.uk_-_106959.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "butt-farm": {
+    "image": "./assets/images/butt-farm.jpg",
+    "imageAlt": "Toegangsweg naar Butt Farm bij Beverley",
+    "imageCredit": "Martin Dawes",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Access_road_to_Butt_Farm_(geograph_3362082).jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "onbekend-york": {
+    "image": "./assets/images/york.jpg",
+    "imageAlt": "Stadsbeeld van York nabij de onbekende overnachtingsplek",
+    "imageCredit": "Bo&Ko",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:York,_England_24.08.2013.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "mortonhall": {
+    "image": "./assets/images/edinburgh.jpg",
+    "imageAlt": "Skyline van Edinburgh, in de omgeving van Mortonhall",
+    "imageCredit": "CivArmy",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Edinburgh_skyline,_Scotland,_UK.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "onbekend-schotland-6-juli": {
+    "image": "./assets/images/schotse-highlands-camping.jpg",
+    "imageAlt": "Illustratief kampeerlandschap in de Schotse Highlands; exacte verblijfplaats onbekend",
+    "imageCredit": "Protolanguage17",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Camping_in_Fort_William,_Glen_Nevis,_Western_Scottish_Highlands.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "inver-caravan-park": {
+    "image": "./assets/images/dunbeath.jpg",
+    "imageAlt": "Haven van Dunbeath, in de omgeving van Inver Caravan Park",
+    "imageCredit": "John MacKenzie",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dunbeath_Harbour_-_geograph.org.uk_-_2443902.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "onbekend-schotland-8-juli": {
+    "image": "./assets/images/schotse-highlands-camping.jpg",
+    "imageAlt": "Illustratief kampeerlandschap in de Schotse Highlands; exacte verblijfplaats onbekend",
+    "imageCredit": "Protolanguage17",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Camping_in_Fort_William,_Glen_Nevis,_Western_Scottish_Highlands.jpg",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "reraig-caravan-site": {
+    "image": "./assets/images/kyle-of-lochalsh.jpg",
+    "imageAlt": "Boten aan de steiger in Kyle of Lochalsh, nabij Reraig Caravan Site",
+    "imageCredit": "Mike Pennington",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Boats_at_jetty_in_Kyle_of_Lochalsh_(Caol_Loch_Aillse)_-_geograph.org.uk_-_2548260.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "glenshiel-campsite": {
+    "image": "./assets/images/glenshiel.jpg",
+    "imageAlt": "Berglandschap langs de A87 bij Glenshiel",
+    "imageCredit": "thejackrustles",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A87_Glenshiel_-_geograph.org.uk_-_7803428.jpg",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "port-zelande": {
+    "image": "./assets/images/port-zelande.jpg",
+    "imageAlt": "Jachthaven en gebouwen van Port Zélande",
+    "imageCredit": "Michiel1972",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Port_Z%C3%A9lande1.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "cnossen-leekstermeer": {
+    "image": "./assets/images/leekstermeer.jpg",
+    "imageAlt": "Panorama over het Leekstermeer bij Cnossen",
+    "imageCredit": "Wutsje",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:20090705_Leekstermeer_Drenthe_NL.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "de-miesboule": {
+    "image": "./assets/images/schijndel.jpg",
+    "imageAlt": "Historisch woonhuis in Schijndel, in de omgeving van Camping De Miesboule",
+    "imageCredit": "MHB Verkuijlen",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:T.T_Woonhuis_Hoofdstraat_148_Schijndel.JPG",
+    "imageLicense": "CC BY-SA 3.0 NL",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/"
+  },
+  "domaine-de-leau-rouge": {
+    "image": "./assets/images/eau-rouge.jpg",
+    "imageAlt": "De rivier Eau Rouge in de Ardennen nabij het domein",
+    "imageCredit": "Cwoyte",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Eau_Rouge_river_as_it_passes_the_interior_of_the_Circuit_des_Ardennes_at_Francorchamps.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "oetdoor-winterkamperen": {
+    "image": "./assets/images/winterkamperen.jpg",
+    "imageAlt": "Illustratief winterkampeerevenement in Nederland; exacte locatie nog onbekend",
+    "imageCredit": "Kitty Terwolbeck",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_Camping_Event_Hallse_Hull_-_Station_Zutphen.jpg",
+    "imageLicense": "CC BY 2.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "bremerbergse-hoek": {
+    "image": "./assets/images/veluwemeer.jpg",
+    "imageAlt": "Uitzicht over het Veluwemeer bij Bremerbergse Hoek",
+    "imageCredit": "Maarten Sepp",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Veluwemeer,_Holland_-_panoramio.jpg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+}
