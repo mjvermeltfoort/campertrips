@@ -123,7 +123,7 @@ Met `needsCompletion: true` verschijnt het label **Nog aanvullen**. `confirmed: 
 
 In de meegeleverde dataset moeten nog worden aangevuld:
 
-- vertrekdatums van Groot Antink in 2024 en 2025;
+- vertrekdatum van Groot Antink in 2024;
 - datum en plaats van Domaine de l’Eau Rouge;
 - exacte plekken van de onbekende overnachtingen bij York en in Schotland;
 - diverse foto's en coördinaten.
