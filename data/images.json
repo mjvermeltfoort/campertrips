@@ -63,13 +63,13 @@
     "imageLicense": "CC BY-SA 2.0",
     "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
   },
-  "onbekend-schotland-8-juli": {
-    "image": "./assets/images/schotse-highlands-camping.jpg",
-    "imageAlt": "Illustratief kampeerlandschap in de Schotse Highlands; exacte verblijfplaats onbekend",
-    "imageCredit": "Protolanguage17",
-    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Camping_in_Fort_William,_Glen_Nevis,_Western_Scottish_Highlands.jpg",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  "scourie-campsite": {
+    "image": "./assets/images/scourie-campsite-2024.png",
+    "imageAlt": "Buscamper en kampeerplaatsen aan de kust bij Scourie",
+    "imageCredit": "Eigen foto",
+    "imageSourceUrl": "",
+    "imageLicense": "",
+    "imageLicenseUrl": ""
   },
   "reraig-caravan-site": {
     "image": "./assets/images/kyle-of-lochalsh.jpg",
